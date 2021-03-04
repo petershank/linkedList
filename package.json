@@ -1,0 +1,16 @@
+{
+  "name": "linkedlist",
+  "version": "1.0.0",
+  "description": "a linked linst implementation in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "linked",
+    "list",
+    "javascript"
+  ],
+  "author": "peter@shank.com",
+  "license": "MIT"
+}
