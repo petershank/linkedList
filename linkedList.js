@@ -1,4 +1,6 @@
-'use strict'
+"use strict";
+
+// a javascript implementation of a singly linked list
 
 class Node {
   constructor(data) {
